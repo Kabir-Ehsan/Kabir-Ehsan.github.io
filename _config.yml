@@ -7,10 +7,10 @@ version: 2
 
 # Personal info
 name: Ehsan Kabir
-title: PhD Student, Computer Engineering, 
-description: University of Arkansas, Fayetteville, USA
+title: PhD Student, Computer Engineering,  
+University of Arkansas, Fayetteville, USA
 email: ekabir@uark.edu
-website: www.github.com/sproogen/resume-theme
+website: Kabir-Ehsan.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
