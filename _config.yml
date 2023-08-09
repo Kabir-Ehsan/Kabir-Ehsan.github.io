@@ -34,7 +34,7 @@ linkedin_username: ekabir29
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
+#additional_links:
 #- title: itsgoingto.be
 #  icon: fas fa-globe
 #  url: https://www.itsgoingto.be
@@ -52,10 +52,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/MyPhoto.jpg
 about_content: | # this will include new lines to allow paragraphs
-Ehsan Kabir completed his Bachelor of Science in Electrical & Electronic Engineering from Bangladesh University of Engineering and Technology in March 2016. After graduation, he worked as a Lab Instructor at 
-North South University, Dhaka, Bangladesh for a year. Then he joined in Bangladesh Power Development Board as an assistant engineer, where he served for two years. He finished his Master of 
-Science degree in Computer Engineering from University of Arkansas, Fayetteville, USA in July 2023. He is pursuing his PhD in Computer Engineering at the same university and expects to
-graduate by the end of December 2025.
+  Ehsan Kabir completed his Bachelor of Science in Electrical and Electronic Engineering from Bangladesh University of Engineering and Technology in March 2016. After graduation, he worked as a Lab Instructor at 
+  North South University, Dhaka, Bangladesh for a year. Then he joined in Bangladesh Power Development Board as an assistant engineer, where he served for two years. He finished his Master of 
+  Science degree in Computer Engineering from University of Arkansas, Fayetteville, USA in July 2023. He is pursuing his PhD in Computer Engineering at the same university and expects to
+  graduate by the end of December 2025.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
