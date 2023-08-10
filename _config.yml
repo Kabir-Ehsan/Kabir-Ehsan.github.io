@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   Science</mark> degree in Computer Engineering from University of Arkansas, Fayetteville, USA in July 2023. He is pursuing his <mark>PhD in Computer Engineering</mark> at the same university and expects to
   graduate by the end of December 2025.</span> </p>
 
-  <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:yellow">Interests: <b>Field Programmable Gate Array, Hardware Software Co-design, Machine Learning, Data Science</b></span> </p>
+  <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:yellow">Interests:</span><b>Field Programmable Gate Array, Hardware Software Co-design, Machine Learning, Data Science</b></p>
 
   <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:yellow"> Technical Skills: </span> </p>
      - Programming languages: C, C++, VHDL, Verilog RTL, Python, Java, Microcontroller, Assembly.
