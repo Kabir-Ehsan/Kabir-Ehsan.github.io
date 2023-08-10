@@ -72,8 +72,8 @@ content:
       - layout: left
         title: <h2><nobr>University of Arkansas, Fayetteville, USA</nobr></h2>
         sub_title: <nobr>Doctor of Philosophy in Computer Engineering</nobr>
-        #title: <h2><nobr>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</nobr></h2>
-        #sub_title: <nobr>Bachelor of Science in Electrical & Electronic Engineering</nobr>
+        title: <h2><nobr>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</nobr></h2>
+        sub_title: <nobr>Bachelor of Science in Electrical & Electronic Engineering</nobr>
         #caption: August 2020 - May 2025 (Expected)
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
@@ -81,17 +81,17 @@ content:
              <p style="text-align: Right;">August 2020 - May 2025 (Expected)</p>                                                                                     
              <p style="text-align: Right;">CGPA: 4.00/4.00</p>
 
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: <h2><nobr>University of Arkansas, Fayetteville, USA</nobr></h2>
-        sub_title: <nobr>Master of Science in Computer Engineering</nobr>
-        #caption: August 2020 - July 2023
-        #quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-             <p style="text-align: Right;"> August 2020 - July 2023</p>                                                                                     
-             <p style="text-align: Right;">CGPA: 4.00/4.00</p>           
+    #layout: list # Type of content section (list/text)
+    #content:
+    #  - layout: left
+    #    title: <h2><nobr>University of Arkansas, Fayetteville, USA</nobr></h2>
+    #    sub_title: <nobr>Master of Science in Computer Engineering</nobr>
+    #    #caption: August 2020 - July 2023
+    #    #quote: >
+    #    #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    #    description: | # this will include new lines to allow paragraphs
+    #         <p style="text-align: Right;"> August 2020 - July 2023</p>                                                                                     
+    #         <p style="text-align: Right;">CGPA: 4.00/4.00</p>           
 
     #content:
     #  - layout: left
