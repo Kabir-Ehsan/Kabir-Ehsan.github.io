@@ -81,7 +81,7 @@ content:
         description: | # this will include new lines to allow paragraphs
              <p style="text-align: Right;">August 2020 - May 2025 (Expected)</p>                                                                                     
              <p style="text-align: Right;">CGPA: 4.00/4.00</p>
-<!---
+{::comment}
     content:
       - layout: left
         title: <h2><nobr>University of Arkansas, Fayetteville, USA</nobr></h2>
@@ -103,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
              <p style="text-align: Right;">February 2011 – March 2016</p>                                                                                     
              <p style="text-align: Right;">CGPA: 3.67/4.00</p>              
---->
+{:/comment}
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
