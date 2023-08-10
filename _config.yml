@@ -70,14 +70,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <h3><nobr>University of Arkansas, Fayetteville, USA</nobr></h3>
+        title: <h2><nobr>University of Arkansas, Fayetteville, USA</nobr></h2>
         sub_title: Doctor of Philosophy in Computer Engineering
         #caption: August 2020 - May 2025 (Expected)
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         #description: | # this will include new lines to allow paragraphs
-        #     <p>August 2020 - May 2025 (Expected)</p>                                                                                     
-        #     <p>CGPA: 4.00/4.00</p>
+             <p style="text-align: Right;>August 2020 - May 2025 (Expected)</p>                                                                                     
+             <p style="text-align: Right;>CGPA: 4.00/4.00</p>
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
