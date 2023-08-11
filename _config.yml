@@ -71,6 +71,9 @@ content:
     content:
       - layout: left
         title: <h2><nobr>University of Arkansas, Fayetteville, USA</nobr></h2>
+               <h3><b><nobr>Doctor of Philosophy in Computer Engineering</nobr></b></h3>
+
+               
                <h2><nobr>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</nobr></h2>
         sub_title: <nobr>Doctor of Philosophy in Computer Engineering</nobr>
         #title: <h2><nobr>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</nobr></h2>
