@@ -70,8 +70,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: |
-               <p style="font-size:15pt;"><nobr>University of Arkansas, Fayetteville, USA</nobr></p>
+        title: <p style="font-size:15pt;"><nobr>University of Arkansas, Fayetteville, USA</nobr></p>
                <p style="font-size:12pt;"><nobr>Doctor of Philosophy in Computer Engineering</nobr></p><br>
                <p style="font-size:15pt;"><nobr>University of Arkansas, Fayetteville, USA</nobr></p>
                <p style="font-size:12pt;"><nobr>Master of Science in Computer Engineering</nobr></p><br>             
