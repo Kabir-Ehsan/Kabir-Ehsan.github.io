@@ -70,8 +70,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <h1 style="font-size:10pt;"><nobr>University of Arkansas, Fayetteville, USA</nobr></h1>
-               <h4><nobr>Doctor of Philosophy in Computer Engineering</nobr></h4><br><br><br>
+        title: <h1 style="font-size:20pt;"><nobr>University of Arkansas, Fayetteville, USA</nobr></h1>
+               <h4 style="font-size:15pt;"><nobr>Doctor of Philosophy in Computer Engineering</nobr></h4><br><br><br>
 
                
                <h2><nobr>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</nobr></h2>
