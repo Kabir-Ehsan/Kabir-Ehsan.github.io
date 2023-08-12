@@ -159,7 +159,7 @@ content:
              <p style="text-align:Right;margin-bottom:50px;">August 2020 - May 2025 (Expected)</p><br>                                                                                     
              <p style="text-align:Right;margin-bottom:20px;">January 2021 – May 2021</p><br>                                                                                       
              <p style="text-align:Right;margin-bottom:50px;">August 2019 – June 2020</p><br>                                                                                        
-             <p style="text-align:Right;margin-bottom:150px;">October 2017 – July 2019</p><br>  
+             <p style="text-align:Right;margin-bottom:170px;">October 2017 – July 2019</p><br>  
              <p style="text-align:Right;">September 2016 – July 2017</p><br>                 
 
   - title: A Little More About Me
@@ -172,7 +172,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      - Images ![Trees](/Kabir-Ehsan.github.io/images/landscape-trees.jpg "Trees")
+      - Images ![alt text](/Kabir-Ehsan.github.io/images/landscape-trees.jpg "Trees")
 #- Images ![alt text]
 # Footer
 footer_show_references: true
