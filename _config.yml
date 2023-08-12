@@ -16,7 +16,7 @@ email: ekabir@uark.edu
 website: Kabir-Ehsan.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 #twitter_username: facespics
@@ -176,6 +176,8 @@ content:
              <li style="margin-bottom:10px;"> Atiyehsadat Panahi, <i><b>Ehsan Kabir</b></i>, Austin Downey, David Andrews, Miaoqing Huang, and Jason D. Bakos. "High-rate machine learning for forecasting time-series signals." In 2022 IEEE 30th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM), pp. 1-9. IEEE, 2022. <a href = "https://ieeexplore.ieee.org/document/9786127" style="color:yellow;"> Paper Link </a></li>
              <li style="margin-bottom:10px;"> Syed Mohammad Ashab Uddin, Sayeed Shafayet Chowdhury, and <i><b>Ehsan Kabir</b></i>. "Numerical analysis of a highly sensitive surface plasmon resonance sensor for SARS-CoV-2 detection." Plasmonics 16, no. 6 (2021)&#58 2025-2037. <a href = "https://link.springer.com/article/10.1007/s11468-021-01455-0" style="color:yellow;"> Paper Link </a></li>
              <li style="margin-bottom:10px;"> <i><b>Ehsan Kabir</b></i>, Syed Mohammad Ashab Uddin, and Sayeed Shafayet Chowdhury. "Optimization of surface plasmon resonance biosensor for analysis of lipid molecules." In 2020 2nd International Conference on Advanced Information and Communication Technology (ICAICT), pp. 59-64. IEEE, 2020. <a href = "https://ieeexplore.ieee.org/abstract/document/9333462" style="color:yellow;"> Paper Link </a></li>
+             <li style="margin-bottom:10px;"> Syed Mohammad Ashab Uddin, Sayeed Shafayet Chowdhury, and <i><b>Ehsan Kabir</b></i>. "A theoretical model for determination of optimum metal thickness in kretschmann configuration-based surface plasmon resonance biosensors." In 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), pp. 651-654. IEEE, 2017. <a href = "https://ieeexplore.ieee.org/document/7912985" style="color:yellow;"> Paper Link </a></li>
+             <li style="margin-bottom:10px;"> Sayeed Shafayet Chowdhury, Syed Mohammad Ashab Uddin, <i><b>Ehsan Kabir</b></i>, and AM Mahmud Chowdhury. "Detection of dna mutation, urinary diseases and blood diseases using surface plasmon resonance biosensors based on kretschmann configuration." In 2017 International Conference on Electrical, Computer and Communication Engineering (ECCE), pp. 662-665. IEEE, 2017. <a href = "https://ieeexplore.ieee.org/document/7912987" style="color:yellow;"> Paper Link </a></li>
 
 
            </ul>
