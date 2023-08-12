@@ -121,7 +121,7 @@ content:
              <li style="margin-bottom:10px;"> <i><b>Automated Fire Extinguisher Robot:</b></i> Built an obstacle detector robot containing a water sprayer using an Arduino Uno Board, fire sensors, light-detecting resistance, and a servo motor.</li>
            </ul>
            
-  - title: Experience # Title for the section
+  - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -160,7 +160,18 @@ content:
              <p style="text-align:Right;margin-bottom:20px;">January 2021 – May 2021</p><br>                                                                                       
              <p style="text-align:Right;margin-bottom:50px;">August 2019 – June 2020</p><br>                                                                                        
              <p style="text-align:Right;margin-bottom:170px;">October 2017 – July 2019</p><br>  
-             <p style="text-align:Right;">September 2016 – July 2017</p><br>                 
+             <p style="text-align:Right;">September 2016 – July 2017</p><br>  
+
+             
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 
+               <ul style="font-family:Helvetica;font-size:13pt;">
+                 <li style="margin-bottom:10px;"> <b>Ehsan Kabir</b>, Daniel Coble, Joud N. Satme, Austin RJ Downey, Jason D. Bakos, David Andrews, and Miaoqing Huang. "Accelerating LSTM-based High-Rate Dynamic System Models." (Accepted in Field Programmable Logic Conference 2023).</li>
+               </ul>
+
 
   - title: A Little More About Me
     layout: text
