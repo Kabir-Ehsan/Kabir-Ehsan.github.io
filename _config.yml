@@ -168,9 +168,11 @@ content:
     content:
       - layout: top-middle
         title: 
-               <ul style="font-family:Helvetica;font-size:13pt;">
-                 <li style="margin-bottom:10px;"> <b>Ehsan Kabir</b>, Daniel Coble, Joud N. Satme, Austin RJ Downey, Jason D. Bakos, David Andrews, and Miaoqing Huang. "Accelerating LSTM-based High-Rate Dynamic System Models." (Accepted in Field Programmable Logic Conference 2023). <a href = "https://www.cse.sc.edu/~jbakos/assets/papers/fpl23_paper_1.pdf" style="color:yellow;"> Paper Link </a></li>
-               </ul>
+           <ul style="font-family:Helvetica;font-size:13pt;">
+             <li style="margin-bottom:10px;"> <b>Ehsan Kabir</b>, Daniel Coble, Joud N. Satme, Austin RJ Downey, Jason D. Bakos, David Andrews, and Miaoqing Huang. "Accelerating LSTM-based High-Rate Dynamic System Models." (Accepted in Field Programmable Logic Conference 2023). <a href = "https://www.cse.sc.edu/~jbakos/assets/papers/fpl23_paper_1.pdf" style="color:yellow;"> Paper Link </a></li>
+             <li style="margin-bottom:10px;"> MD Arafat Kabir, <b>Ehsan Kabir</b>, Joshua Hollis, Eli Levy-Mackay, Atiyehsadat Panahi, Jason Bakos, Miaoqing Huang, and David Andrews. "FPGA Processor In Memory Architectures (PIMs): Overlay or Overhaul?" (Accepted in Field Programmable Logic Conference 2023). <a href = "https://doi.org/10.48550/arXiv.2308.03914" style="color:yellow;"> Paper Link </a></li>
+             <li style="margin-bottom:10px;"> Coble, Daniel, Joud Satme, <b>Ehsan Kabir</b>, Austin RJ Downey, Jason Bakos, David Andrews, Miaoqing Huang, Adrine Moura, and Jacob Dodson. "Towards online structural state-estimation with sub-millisecond latency." (Accepted in Shock and Vibration Exchange Symposium 2023). <a href = "http://www.me.sc.edu/Research/Downey/publications/Conference_publications/Coble2022TowardsOnlineStructural.pdf" style="color:yellow;"> Paper Link </a></li>
+           </ul>
 
 
   - title: A Little More About Me
