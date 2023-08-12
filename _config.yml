@@ -169,7 +169,7 @@ content:
       - layout: top-middle
         title: 
                <ul style="font-family:Helvetica;font-size:13pt;">
-                 <li style="margin-bottom:10px;"> <b>Ehsan Kabir</b>, Daniel Coble, Joud N. Satme, Austin RJ Downey, Jason D. Bakos, David Andrews, and Miaoqing Huang. "Accelerating LSTM-based High-Rate Dynamic System Models." (Accepted in Field Programmable Logic Conference 2023) <a href = "https://www.cse.sc.edu/~jbakos/assets/papers/fpl23_paper_1.pdf"> Paper Link </a></li>
+                 <li style="margin-bottom:10px;"> <b>Ehsan Kabir</b>, Daniel Coble, Joud N. Satme, Austin RJ Downey, Jason D. Bakos, David Andrews, and Miaoqing Huang. "Accelerating LSTM-based High-Rate Dynamic System Models." (Accepted in Field Programmable Logic Conference 2023). <a href = "https://www.cse.sc.edu/~jbakos/assets/papers/fpl23_paper_1.pdf" style="color:yellow;"> Paper Link </a></li>
                </ul>
 
 
