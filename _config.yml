@@ -71,9 +71,9 @@ content:
     content:
       - layout: left
         title: <p style="font-size:15pt;"><nobr><b>University of Arkansas, Fayetteville, USA</b></nobr></p>
-               <p style="font-size:12pt;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering</nobr></p><br>
+               <p style="font-size:12pt;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering</nobr></p>
                <p style="font-size:15pt;"><nobr><b>University of Arkansas, Fayetteville, USA</b></nobr></p>
-               <p style="font-size:12pt;margin-bottom:20px;"><nobr>Master of Science in Computer Engineering</nobr></p><br>             
+               <p style="font-size:12pt;margin-bottom:20px;"><nobr>Master of Science in Computer Engineering</nobr></p>            
                <p style="font-size:15pt;"><nobr><b>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</b></nobr></p>
                <p style="font-size:12pt;"><nobr>Bachelor of Science in Electrical and Electronic Engineering</nobr></p>
 
