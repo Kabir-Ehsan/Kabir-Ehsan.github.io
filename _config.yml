@@ -96,7 +96,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        description: |
+        title:
            - Designed an LSTM neural network using C and RTL language for high-rate dynamic system models on FPGA.
            - Developed an LSTM neural network model for high-rate dynamic systems on Python.
            - Designed a run time programmable convolution and multilayer perceptron neural network accelerator on FPGA.
