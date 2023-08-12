@@ -172,7 +172,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      - Images ![alt text](images/landscape-trees.jpg "Trees")
+      ![alt text](images/landscape-trees.jpg "Trees")
 #- Images ![alt text]
 # Footer
 footer_show_references: true
