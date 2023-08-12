@@ -156,10 +156,10 @@ content:
                </ul>                  
                
         description: | # this will include new lines to allow paragraphs
-             <p style="text-align:Right;margin-bottom:15px;">August 2020 - May 2025 (Expected)</p>                                                                                     
-             <p style="text-align:Right;margin-bottom:15px;">January 2021 – May 2021</p>                                                                                     
-             <p style="text-align:Right;margin-bottom:15px;">August 2019 – June 2020</p>                                                                                     
-             <p style="text-align:Right;margin-bottom:15px;">October 2017 – July 2019</p>  
+             <p style="text-align:Right;">August 2020 - May 2025 (Expected)</p><br><br><br><br><br>                                                                                     
+             <p style="text-align:Right;">January 2021 – May 2021</p><br><br><br><br><br>                                                                                         
+             <p style="text-align:Right;">August 2019 – June 2020</p><br><br><br><br><br>                                                                                         
+             <p style="text-align:Right;">October 2017 – July 2019</p><br><br><br><br><br>      
 
   - title: A Little More About Me
     layout: text
