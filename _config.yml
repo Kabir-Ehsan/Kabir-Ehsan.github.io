@@ -58,9 +58,9 @@ about_content: | # this will include new lines to allow paragraphs
   Science</i> degree in Computer Engineering from <i>University of Arkansas, Fayetteville, USA</i> in July 2023. Now he is pursuing his <i>PhD in Computer Engineering</i> at the same university and expects to
   graduate by the end of December 2025.</span> </p>
 
-  <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-size:15pt;">Interests:</span><b> Field Programmable Gate Array, Hardware Software Co-design, Machine Learning, Data Science</b></p>
+  <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-family:Times;font-size:15pt;">Interests:</span><b> Field Programmable Gate Array, Hardware Software Co-design, Machine Learning, Data Science</b></p>
 
-  <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-size:15pt;"> Technical Skills: </span> </p>
+  <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-family:Times;font-size:15pt;"> Technical Skills: </span> </p>
      - Programming languages: C, C++, VHDL, Verilog RTL, Python, Java, Microcontroller, Assembly.
      - Tools: Xilinx Vivado, Cadence, Matlab, Lumerical, Latex, Arduino, Proteus, Pspice, Quartus, Adobe Illustrator, Openscad, LabView-National Instruments, Linux OS.
 
