@@ -128,7 +128,7 @@ content:
         title: 
                <h2 style="font-size:15pt;"><nobr><i><b>Research Assistant,</b></i> University of Arkansas, Computer Engineering</nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
-                 <li style="margin-bottom:10px;"> <nobr>Implementing machine learning algorithms on FPGA.</nobr><br><nobr>Current project&colon State estimation from high-rate vibration data using LSTM and Transformers on FPGA.</nobr></li>
+                 <li style="margin-bottom:10px;"> <nobr>Implementing machine learning algorithms on FPGA.</nobr><br><nobr>Current project&#58 State estimation from high-rate vibration data using LSTM and Transformers on FPGA.</nobr></li>
                </ul>  
                
         #description: | # this will include new lines to allow paragraphs
