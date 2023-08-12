@@ -98,11 +98,11 @@ content:
       - layout: top-middle
         title:
            <ul style="font-family:Helvetica;font-size:15pt;">
-             <li style="margin-bottom: 10px;"> Designed an LSTM neural network using C and RTL language for high-rate dynamic system models on FPGA. </li>
-             <li style="margin-bottom: 10px;"> Developed an LSTM neural network model for high-rate dynamic systems on Python.</li>
-             <li style="margin-bottom: 10px;"> Designed a run time programmable convolution and multilayer perceptron neural network accelerator on FPGA.</li>
-             <li style="margin-bottom: 10px;"> Designed a multilayer perceptron neural network accelerator for high-rate time series signal forecasting on FPGA.</li>
-             <li style="margin-bottom: 10px;"> Designed surface plasmon resonance biosensor to analyze lipid molecules and detect diseases like breast cancer, anemia, and diabetes, and increased the sensitivity of the sensor.</li>
+             <li style="margin-bottom:10px;"> Designed an LSTM neural network using C and RTL language for high-rate dynamic system models on FPGA. </li>
+             <li style="margin-bottom:10px;"> Developed an LSTM neural network model for high-rate dynamic systems on Python.</li>
+             <li style="margin-bottom:10px;"> Designed a run time programmable convolution and multilayer perceptron neural network accelerator on FPGA.</li>
+             <li style="margin-bottom:10px;"> Designed a multilayer perceptron neural network accelerator for high-rate time series signal forecasting on FPGA.</li>
+             <li style="margin-bottom:10px;"> Designed surface plasmon resonance biosensor to analyze lipid molecules and detect diseases like breast cancer, anemia, and diabetes, and increased the sensitivity of the sensor.</li>
            </ul>
         
     
