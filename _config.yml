@@ -110,7 +110,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: 
           <ul style="font-family:Helvetica;font-size:15pt;">
              <li style="margin-bottom:10px;"> <i><b>Secured Digital System:</b></i> Designed a fault injection attack and mitigation technique for a circuit running DES algorithm on FPGA using Verilog RTL and C.</li>
              <li style="margin-bottom:10px;"> <i><b>Low Power Digital System:</b></i> Designed a multilayer perceptron neural network on FPGA using Xilinx Vivado Tools and optimized it for low power consumption, high speed, and low resource utilization using high-level synthesis. </li>
