@@ -71,9 +71,9 @@ content:
     content:
       - layout: left
         title: <p style="font-size:15pt;"><nobr><b>University of Arkansas, Fayetteville, USA</b></nobr></p>
-               <p style="font-size:12pt;"><nobr>Doctor of Philosophy in Computer Engineering</nobr></p><br>
+               <p style="font-size:12pt;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering</nobr></p><br>
                <p style="font-size:15pt;"><nobr><b>University of Arkansas, Fayetteville, USA</b></nobr></p>
-               <p style="font-size:12pt;"><nobr>Master of Science in Computer Engineering</nobr></p><br>             
+               <p style="font-size:12pt;margin-bottom:20px;"><nobr>Master of Science in Computer Engineering</nobr></p><br>             
                <p style="font-size:15pt;"><nobr><b>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</b></nobr></p>
                <p style="font-size:12pt;"><nobr>Bachelor of Science in Electrical and Electronic Engineering</nobr></p>
 
@@ -85,12 +85,12 @@ content:
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: |# this will include new lines to allow paragraphs
-             <p style="text-align: Right;">August 2020 - May 2025 (Expected)</p>                                                                                     
-             <p style="text-align: Right;margin-bottom: 20px;">CGPA: 4.00/4.00</p>
-             <p style="text-align: Right;">August 2020 - July 2023</p>                                                                                     
-             <p style="text-align: Right;margin-bottom: 20px;">CGPA: 4.00/4.00</p>
-             <p style="text-align: Right;">February 2011 - March 2016</p>                                                                                     
-             <p style="text-align: Right;">CGPA: 3.67/4.00</p>
+             <p style="text-align:Right;">August 2020 - May 2025 (Expected)</p>                                                                                     
+             <p style="text-align:Right;margin-bottom:20px;">CGPA: 4.00/4.00</p>
+             <p style="text-align:Right;">August 2020 - July 2023</p>                                                                                     
+             <p style="text-align:Right;margin-bottom:20px;">CGPA: 4.00/4.00</p>
+             <p style="text-align:Right;">February 2011 - March 2016</p>                                                                                     
+             <p style="text-align:Right;">CGPA: 3.67/4.00</p>
 
   - title: Research Projects # Title for the section
     layout: list # Type of content section (list/text)
