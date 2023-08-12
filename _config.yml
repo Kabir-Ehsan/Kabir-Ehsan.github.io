@@ -97,7 +97,7 @@ content:
     content:
       - layout: top-middle
         title:
-           <ul  style="font-size:15pt;">
+           <ul  style="font-family: Helvetica;font-size:15pt;">
              <li> Designed an LSTM neural network using C and RTL language for high-rate dynamic system models on FPGA. </li>
              <li> Developed an LSTM neural network model for high-rate dynamic systems on Python.</li>
              <li> Designed a run time programmable convolution and multilayer perceptron neural network accelerator on FPGA.</li>
