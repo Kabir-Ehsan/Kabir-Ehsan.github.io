@@ -120,7 +120,8 @@ content:
              <li style="margin-bottom:10px;"> <i><b>n-Bit Cascade-able Comparator Design:</b></i> Designed a 4-bit cascade-able comparator that can also be used as an n-bit comparator after cascading in CADENCE software.</li>
              <li style="margin-bottom:10px;"> <i><b>Automated Fire Extinguisher Robot:</b></i> Built an obstacle detector robot containing a water sprayer using an Arduino Uno Board, fire sensors, light-detecting resistance, and a servo motor.</li>
            </ul>
-<!---    content:
+<!---
+     content:
       - layout: top-middle
         title: Super awesome project 2
         link: github.com/sproogen
