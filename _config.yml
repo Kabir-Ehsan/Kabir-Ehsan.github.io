@@ -144,14 +144,14 @@ content:
 
                <h2 style="font-size:15pt;"><nobr><i><b>Assistant Engineer,</b></i> Bangladesh Power Development Board, Sunamganj, Bangladesh</nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
-                 <li style="margin-bottom:0px;text-align:justify;"> <nobr>Ensured uninterrupted electricity supply to 30k consumers by monitoring the operation and maintenance of 33/11kv<br>substations, transformers, and<br> other electrical equipment.</nobr></li>
-                 <li style="margin-bottom:0px;text-align:justify;"> <nobr>Supervised a team of 30 sub assistant engineers, electricians, and helpers to run the maintenance operation, solve power<br>interruption related issues, and achieve fiscal targets for minimum system loss and maximum bill collection by identifying illegal and irregular electric consumption by taking<br> necessary steps to resolve them.</nobr></li>
+                 <li style="margin-bottom:0px;text-align:justify;"> <nobr>Ensured uninterrupted electricity supply to 30k consumers by monitoring the operation and maintenance of 33/11kv<br>substations, transformers, and other electrical equipment.</nobr></li>
+                 <li style="margin-bottom:0px;text-align:justify;"> <nobr>Supervised a team of 30 sub assistant engineers, electricians, and helpers to run the maintenance operation, solve<br>power interruption related issues, and achieve fiscal targets for minimum system loss and maximum bill collection by identifying<br>illegal and irregular electric consumption by taking necessary steps to resolve them.</nobr></li>
                  <li style="margin-bottom:10px;text-align:justify;"> <nobr>Surveyed the area under the substation for new connections and extension of the existing electrical lines to<br> distribute power to new customers.</nobr></li>
                </ul>
                
                <h2 style="font-size:15pt;"><nobr><i><b>Lab Officer,</b></i> North South University, Dhaka, Bangladesh</nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
-                 <li style="margin-bottom:0px;text-align:justify;"> <nobr>Designed lab manuals to connect theoretical coursework with practical implementation on DC Circuits, Analog Electronics, Signal processing, and<br> Control System.</nobr></li>
+                 <li style="margin-bottom:0px;text-align:justify;"> <nobr>Designed lab manuals to connect theoretical coursework with practical implementation on DC Circuits, Analog Electronics,<br>Signal processing, and Control System.</nobr></li>
                  <li style="margin-bottom:10px;text-align:justify;"> <nobr>Conducted lab classes, experiments, and exams for up to 40 undergraduates at a time.</nobr></li>
                </ul>                  
                
@@ -172,8 +172,8 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](Kabir-Ehsan.github.io/images/landscape-trees.jpg "Trees")
-
+      - Images ![Trees](Kabir-Ehsan.github.io/images/landscape-trees.jpg "Trees")
+#- Images ![alt text]
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
