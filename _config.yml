@@ -92,35 +92,6 @@ content:
              <p style="text-align:Right;margin-bottom:-5px;">February 2011 - March 2016</p>                                                                                     
              <p style="text-align:Right;">CGPA: 3.67/4.00</p>
 
-  - title: Research Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title:
-           <ul style="font-family:Helvetica;font-size:13pt;">
-             <li style="margin-bottom:10px;"> Designed an LSTM neural network using C and RTL language for high-rate dynamic system models on FPGA. </li>
-             <li style="margin-bottom:10px;"> Developed an LSTM neural network model for high-rate dynamic systems on Python.</li>
-             <li style="margin-bottom:10px;"> Designed a run time programmable convolution and multilayer perceptron neural network accelerator on FPGA.</li>
-             <li style="margin-bottom:10px;"> Designed a multilayer perceptron neural network accelerator for high-rate time series signal forecasting on FPGA.</li>
-             <li style="margin-bottom:10px;"> Designed a surface plasmon resonance biosensor to analyze lipid molecules and detect diseases like breast cancer, anemia, and diabetes, and increased the sensitivity of the sensor.</li>
-           </ul>
-        
-    
-  - title: Engineering Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: 
-          <ul style="font-family:Helvetica;font-size:13pt;">
-             <li style="margin-bottom:10px;"> <i><b>Secured Digital System:</b></i> Designed a fault injection attack and mitigation technique for a circuit running DES algorithm on FPGA using Verilog RTL and C.</li>
-             <li style="margin-bottom:10px;"> <i><b>Low Power Digital System:</b></i> Designed a multilayer perceptron neural network on FPGA using Xilinx Vivado Tools and optimized it for low power consumption, high speed, and low resource utilization using high-level synthesis. </li>
-             <li style="margin-bottom:10px;"> <i><b>Recommendation System:</b></i> Used deep neural network to improve the prediction accuracy of movie ratings from Netflix Datasets using Python on the GPU.</li>
-             <li style="margin-bottom:10px;"> <i><b>Handwritten Digit Classifier:</b></i> Designed machine learning models such as random forest, decision tree, multilayer perceptron, and convolution neural network for MNIST digit classification using PyTorch and ScikitLearn tools in Python. </li>
-             <li style="margin-bottom:10px;"> <i><b>Smart Car Parking System:</b></i> Implemented the logic of finding the nearest vacant spot for parking from two different entrances of a parking lot using digital logic gates.</li>
-             <li style="margin-bottom:10px;"> <i><b>n-Bit Cascade-able Comparator Design:</b></i> Designed a 4-bit cascade-able comparator that can also be used as an n-bit comparator after cascading in CADENCE software.</li>
-             <li style="margin-bottom:10px;"> <i><b>Automated Fire Extinguisher Robot:</b></i> Built an obstacle detector robot containing a water sprayer using an Arduino Uno Board, fire sensors, light-detecting resistance, and a servo motor.</li>
-           </ul>
-           
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -161,6 +132,36 @@ content:
              <p style="text-align:Right;margin-bottom:50px;">August 2019 – June 2020</p><br>                                                                                        
              <p style="text-align:Right;margin-bottom:170px;">October 2017 – July 2019</p><br>  
              <p style="text-align:Right;">September 2016 – July 2017</p><br>  
+
+  - title: Research Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title:
+           <ul style="font-family:Helvetica;font-size:13pt;">
+             <li style="margin-bottom:10px;"> Designed an LSTM neural network using C and RTL language for high-rate dynamic system models on FPGA. </li>
+             <li style="margin-bottom:10px;"> Developed an LSTM neural network model for high-rate dynamic systems on Python.</li>
+             <li style="margin-bottom:10px;"> Designed a run time programmable convolution and multilayer perceptron neural network accelerator on FPGA.</li>
+             <li style="margin-bottom:10px;"> Designed a multilayer perceptron neural network accelerator for high-rate time series signal forecasting on FPGA.</li>
+             <li style="margin-bottom:10px;"> Designed a surface plasmon resonance biosensor to analyze lipid molecules and detect diseases like breast cancer, anemia, and diabetes, and increased the sensitivity of the sensor.</li>
+           </ul>
+        
+    
+  - title: Engineering Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: 
+          <ul style="font-family:Helvetica;font-size:13pt;">
+             <li style="margin-bottom:10px;"> <i><b>Secured Digital System:</b></i> Designed a fault injection attack and mitigation technique for a circuit running DES algorithm on FPGA using Verilog RTL and C.</li>
+             <li style="margin-bottom:10px;"> <i><b>Low Power Digital System:</b></i> Designed a multilayer perceptron neural network on FPGA using Xilinx Vivado Tools and optimized it for low power consumption, high speed, and low resource utilization using high-level synthesis. </li>
+             <li style="margin-bottom:10px;"> <i><b>Recommendation System:</b></i> Used deep neural network to improve the prediction accuracy of movie ratings from Netflix Datasets using Python on the GPU.</li>
+             <li style="margin-bottom:10px;"> <i><b>Handwritten Digit Classifier:</b></i> Designed machine learning models such as random forest, decision tree, multilayer perceptron, and convolution neural network for MNIST digit classification using PyTorch and ScikitLearn tools in Python. </li>
+             <li style="margin-bottom:10px;"> <i><b>Smart Car Parking System:</b></i> Implemented the logic of finding the nearest vacant spot for parking from two different entrances of a parking lot using digital logic gates.</li>
+             <li style="margin-bottom:10px;"> <i><b>n-Bit Cascade-able Comparator Design:</b></i> Designed a 4-bit cascade-able comparator that can also be used as an n-bit comparator after cascading in CADENCE software.</li>
+             <li style="margin-bottom:10px;"> <i><b>Automated Fire Extinguisher Robot:</b></i> Built an obstacle detector robot containing a water sprayer using an Arduino Uno Board, fire sensors, light-detecting resistance, and a servo motor.</li>
+           </ul>
+           
 
              
   - title: Publications # Title for the section
