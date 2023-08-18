@@ -72,11 +72,11 @@ content:
     content:
       - layout: middle
         title: <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:940px;font-size:12pt;"> August 2020 - May 2025 (Expected)</span></nobr></p>
-               <p style="font-size:12pt;text-align:left;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering <span style="position:absolute;left:950px;font-size:11pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>
+               <p style="font-size:12pt;text-align:left;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>
                <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:940px;font-size:12pt;"> August 2020 - July 2023</span></nobr></p>
                <p style="font-size:12pt;margin-bottom:20px;"><nobr>Master of Science in Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>            
                <p style="font-size:15pt;"><nobr><b>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</b><span style="position:absolute;left:940px;font-size:12pt;"> February 2011 - March 2016 </span></nobr></p>
-               <p style="font-size:12pt;"><nobr>Bachelor of Science in Electrical and Electronic Engineering <span style="position:absolute;left:950px;font-size:11pt;"> CGPA&#58 3.67/4.00 </span> </nobr></p>
+               <p style="font-size:12pt;"><nobr>Bachelor of Science in Electrical and Electronic Engineering <span style="position:absolute;left:940px;font-size:11pt;"> CGPA&#58 3.67/4.00 </span> </nobr></p>
 
 
         #sub_title: <nobr>Doctor of Philosophy in Computer Engineering</nobr>
@@ -90,32 +90,32 @@ content:
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: 
-               <h2 style="font-size:15pt;"><nobr><i><b>Research Assistant,</b></i> University of Arkansas, Computer Engineering <span style="position:absolute;left:950px;font-size:11pt;">August 2020 - May 2025 (Expected) </span> </nobr></h2>
+               <h2 style="font-size:15pt;"><nobr><i><b>Research Assistant,</b></i> University of Arkansas, Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;">August 2020 - May 2025 (Expected) </span> </nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
                  <li style="margin-bottom:10px;"> <nobr>Implementing machine learning algorithms on FPGA.</nobr><br><nobr><b>Current project&#58</b> State estimation from high-rate vibration data using LSTM and Transformers on FPGA.</nobr></li>
                </ul>
 
-               <h2 style="font-size:15pt;"><nobr><i><b>Teaching Assistant,</b></i> University of Arkansas, Computer Engineering <span style="position:absolute;left:950px;font-size:11pt;">January 2021 – May 2021</span> </nobr></h2>
+               <h2 style="font-size:15pt;"><nobr><i><b>Teaching Assistant,</b></i> University of Arkansas, Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;">January 2021 – May 2021</span> </nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
                  <li style="margin-bottom:10px;"> <nobr>Graded programming assignments of GPU Programming course.</nobr></li>
                </ul>  
 
-               <h2 style="font-size:15pt;"><nobr><i><b>Teaching Assistant,</b></i> University of Arkansas, Physics Dept. <span style="position:absolute;left:950px;font-size:11pt;">August 2019 – June 2020</span></nobr></h2>
+               <h2 style="font-size:15pt;"><nobr><i><b>Teaching Assistant,</b></i> University of Arkansas, Physics Dept. <span style="position:absolute;left:940px;font-size:11pt;">August 2019 – June 2020</span></nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
                  <li style="margin-bottom:0px;"> <nobr>Graded course papers, exams and assignments of University Physics 1 & 2 course.</nobr></li>
                  <li style="margin-bottom:10px;"> <nobr>Proctored in the lab and course exams.</nobr></li>
                </ul>      
 
-               <h2 style="font-size:15pt;"><nobr><i><b>Assistant Engineer,</b></i> Bangladesh Power Development Board, Sunamganj, Bangladesh <span style="position:absolute;left:950px;font-size:11pt;">October 2017 – July 2019</span> </nobr></h2>
+               <h2 style="font-size:15pt;"><nobr><i><b>Assistant Engineer,</b></i> Bangladesh Power Development Board, Sunamganj, Bangladesh <span style="position:absolute;left:940px;font-size:11pt;">October 2017 – July 2019</span> </nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
                  <li style="margin-bottom:0px;text-align:justify;"> <nobr>Ensured uninterrupted electricity supply to 30k consumers by monitoring the operation and maintenance of 33/11kv<br>substations, transformers, and other electrical equipment.</nobr></li>
                  <li style="margin-bottom:0px;text-align:justify;"> <nobr>Supervised a team of 30 sub assistant engineers, electricians, and helpers to run the maintenance operation, solve<br>power interruption related issues, and achieve fiscal targets for minimum system loss and maximum bill collection by<br>identifying illegal and irregular electric consumption by taking necessary steps to resolve them.</nobr></li>
                  <li style="margin-bottom:10px;text-align:justify;"> <nobr>Surveyed the area under the substation for new connections and extension of the existing electrical lines to<br> distribute power to new customers.</nobr></li>
                </ul>
                
-               <h2 style="font-size:15pt;"><nobr><i><b>Lab Officer,</b></i> North South University, Dhaka, Bangladesh <span style="position:absolute;left:950px;font-size:11pt;">September 2016 – July 2017</span></nobr></h2>
+               <h2 style="font-size:15pt;"><nobr><i><b>Lab Officer,</b></i> North South University, Dhaka, Bangladesh <span style="position:absolute;left:940px;font-size:11pt;">September 2016 – July 2017</span></nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
                  <li style="margin-bottom:0px;text-align:justify;"> <nobr>Designed lab manuals to connect theoretical coursework with practical implementation on DC Circuits, Analog<br>Electronics, Signal processing, and Control System.</nobr></li>
                  <li style="margin-bottom:10px;text-align:justify;"> <nobr>Conducted lab classes, experiments, and exams for up to 40 undergraduates at a time.</nobr></li>
