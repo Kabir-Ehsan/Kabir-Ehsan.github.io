@@ -71,7 +71,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: middle
-        title: <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:1000px;font-size:13pt;"> August 2020 - May 2025 (Expected)</span></nobr></p>
+        title: <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;text-align:right;font-size:13pt;"> August 2020 - May 2025 (Expected)</span></nobr></p>
                <p style="font-size:12pt;text-align:left;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering <span style="position:absolute;left:1000px;font-size:12pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>
                <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:1000px;font-size:13pt;"> August 2020 - July 2023</span></nobr></p>
                <p style="font-size:12pt;margin-bottom:20px;"><nobr>Master of Science in Computer Engineering <span style="position:absolute;left:1000px;font-size:12pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>            
