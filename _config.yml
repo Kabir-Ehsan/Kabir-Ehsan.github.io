@@ -14,8 +14,10 @@ title: |
 
 phone: +1-479-404-0796 
 email: ekabir@uark.edu
-website: Kabir-Ehsan.github.io
+website: Kabir-Ehsan.github.io |
+<div>
 <p>google-scholar: <a href>="https://scholar.google.com/citations?hl=en&user=c1peOmYAAAAJ">Ehsan-Scholar</a></p>
+</div>
 # Dark Mode (true/false/never)
 darkmode: false
 
