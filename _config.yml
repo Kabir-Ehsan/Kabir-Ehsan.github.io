@@ -15,7 +15,7 @@ title: |
 phone: +1-479-404-0796 
 email: ekabir@uark.edu
 website: Kabir-Ehsan.github.io
-
+google-scholar: <a href>="https://scholar.google.com/citations?hl=en&user=c1peOmYAAAAJ">Ehsan-Scholar</a>
 # Dark Mode (true/false/never)
 darkmode: false
 
@@ -51,7 +51,7 @@ linkedin_username: ekabir29
 
 # About Section
 # about_title: About Me
-about_profile_image: images/MyPhoto.jpg
+about_profile_image: images/Ehsan Kabir_pp.jpg
 about_content: | # this will include new lines to allow paragraphs
   <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:gray"> 
   Ehsan Kabir completed his <i>Bachelor of Science</i> in Electrical and Electronic Engineering from <i>Bangladesh University of Engineering and Technology</i> in March 2016. After graduation, he worked as a <i>Lab Instructor</i> at 
