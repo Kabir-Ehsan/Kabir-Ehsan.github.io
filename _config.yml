@@ -63,16 +63,16 @@ about_content: | # this will include new lines to allow paragraphs
   <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-family:Times;font-size:15pt;">Interests:</span> Field Programmable Gate Array, Hardware Software Co-design, Machine Learning, Data Science. </p>
 
   <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-family:Times;font-size:15pt;"> Technical Skills: </span> </p>
-     - Programming languages: C, C++, VHDL, Verilog RTL, Python, Java, Microcontroller, Assembly.
-     - Tools: Xilinx Vivado, Cadence, Matlab, Lumerical, Latex, Arduino, Proteus, Pspice, Quartus, Adobe Illustrator, Openscad, LabView-National Instruments, Linux OS.
-
+     - Programming languages: C, C++, VHDL, Verilog RTL, Python, Java, Embedded C, SQL, HTML, CSS.
+     - Tools: Xilinx Vivado, Cadence, Matlab, Lumerical, Latex, Arduino, Eclipse, VS code, Anaconda, Jupyter, Git, Proteus, Pspice, Quartus, Openscad, Linux OS.
+     - Hardware: FPGA, MicroBlaze & ARM core processor, LabView-National Instruments, Arduino. 
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: middle
-        title: <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:940px;font-size:12pt;"> August 2020 - May 2025 (Expected)</span></nobr></p>
+        title: <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:940px;font-size:12pt;"> August 2020 - December 2024 (Expected)</span></nobr></p>
                <p style="font-size:12pt;text-align:left;margin-bottom:20px;"><nobr>Doctor of Philosophy in Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>
                <p style="font-size:15pt;text-align:left;"><nobr><b>University of Arkansas, Fayetteville, USA</b><span style="position:absolute;left:940px;font-size:12pt;"> August 2020 - July 2023</span></nobr></p>
                <p style="font-size:12pt;margin-bottom:20px;"><nobr>Master of Science in Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;"> CGPA&#58 4.00/4.00 </span> </nobr></p>            
