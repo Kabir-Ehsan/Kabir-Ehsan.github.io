@@ -9,7 +9,7 @@ version: 2
 # Personal info
 name: Ehsan Kabir
 title: |
- PhD Candidate, Computer System Design Lab, | Computer Engineering,
+ PhD Candidate, Computer System Design Lab, Computer Engineering,
  University of Arkansas, Fayetteville, USA
 
 phone: +1-479-404-0796 
@@ -54,10 +54,11 @@ linkedin_username: ekabir29
 about_profile_image: images/Ehsan Kabir_pp.jpg
 about_content: | # this will include new lines to allow paragraphs
   <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:gray"> 
-  Ehsan Kabir completed his <i>Bachelor of Science</i> in Electrical and Electronic Engineering from <i>Bangladesh University of Engineering and Technology</i> in March 2016. After graduation, he worked as a <i>Lab Instructor</i> at 
-  North South University, Dhaka, Bangladesh for a year. Then he joined in Bangladesh Power Development Board as an <i>Assistant Engineer</i>, where he served for two years. He finished his <i>Master of 
-  Science</i> degree in Computer Engineering from <i>University of Arkansas, Fayetteville, USA</i> in July 2023. Now he is pursuing his <i>PhD in Computer Engineering</i> at the same university and expects to
-  graduate by the end of May 2025.</span> </p>
+  As a PhD candidate in Computer Engineering at the University of Arkansas, I have been working on accelerating deep learning algorithms using FPGA and GPU platforms. With expertise in designing and implementing neural network accelerators, I’ve worked on various machine learning models, including LSTM, CNN, and MLP, optimizing them for high-rate dynamic applications. My current research focuses on developing a transformer neural network overlay for FPGAs, pushing the boundaries of computational efficiency in AI. 
+  I bring over five years of professional experience across multiple roles, including research assistant, teaching assistant, and assistant engineer. My technical expertise spans programming languages like C, C++, Verilog, SystemVerilog, and Python, alongside proficiency with tools like Xilinx Vivado, Cadence and Quartus. I've had the opportunity to work on large-scale engineering projects, from designing low-power digital systems to securing digital circuits against fault injection attacks. I am driven by the challenge of solving complex engineering problems and am eager to contribute to innovative solutions in hardware acceleration, embedded systems, and AI. My work has been published in leading conferences such as FPL, FPT, and FCCM, and I aim to continue advancing cutting-edge technologies through collaborative research and development.
+  I completed my <i>Bachelor of Science</i> in Electrical and Electronic Engineering from <i>Bangladesh University of Engineering and Technology</i> in March 2016. After graduation, I worked as a <i>Lab Instructor</i> at 
+  North South University, Dhaka, Bangladesh for a year. Then I joined in Bangladesh Power Development Board as an <i>Assistant Engineer</i>, where he served for two years. I finished my <i>Master of 
+  Science</i> degree in Computer Engineering from <i>University of Arkansas, Fayetteville, USA</i> in July 2023. I am expecting to finish my <i>PhD in Computer Engineering</i> from the same university by the end of December 2024.</span> </p>
 
   <p style="font-family: Helvetica, serif; font-size:13pt;"> <span style="color:black;font-family:Times;font-size:15pt;">Interests:</span> Field Programmable Gate Array, Hardware Software Co-design, Machine Learning, Data Science. </p>
 
