@@ -83,17 +83,17 @@ content:
         #sub_title: <nobr>Doctor of Philosophy in Computer Engineering</nobr>
         #title: <h2><nobr>Bangladesh University of Engineering and Technology, Dhaka, Bangladesh</nobr></h2>
         #sub_title: <nobr>Bachelor of Science in Electrical and Electronic Engineering</nobr>
-        #caption: August 2020 - May 2025 (Expected)
+        #caption: August 2020 - December 2024
         #quote: >
         #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        #description: |# this will include new lines to allow paragraphs <p style="text-align:Right;margin-bottom:-5px;">August 2020 -  December 2024</p>  <p style="text-align:Right;margin-bottom:15px;">CGPA: 4.00/4.00</p><p style="text-align:Right;margin-bottom:-5px;">August 2020 - July 2023</p>                                                                                     <p style="text-align:Right;margin-bottom:15px;">CGPA: 4.00/4.00</p><p style="text-align:Right;margin-bottom:-5px;">February 2011 - March 2016</p> <p style="text-align:Right;">CGPA: 3.67/4.00</p>
+        #description: |# this will include new lines to allow paragraphs <p style="text-align:Right;margin-bottom:-5px;">August 2020 -  December 2024</p>  <p style="text-align:Right;margin-bottom:15px;">CGPA: 4.00/4.00</p><p style="text-align:Right;margin-bottom:-5px;">August 2020 - July 2023</p>                                                                                     <p style="text-align:Right;margin-bottom:15px;">CGPA: 4.00/4.00</p><p style="text-align:Right;margin-bottom:-5px;">February 2011 - March 2016</p> <p style="text-align:Right;"> </p>
 
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 
-               <h2 style="font-size:15pt;"><nobr><i><b>Research Assistant,</b></i> University of Arkansas, Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;">August 2020 - May 2025 (Expected) </span> </nobr></h2>
+               <h2 style="font-size:15pt;"><nobr><i><b>Research Assistant,</b></i> University of Arkansas, Computer Engineering <span style="position:absolute;left:940px;font-size:11pt;">August 2020 - December 2024 </span> </nobr></h2>
                <ul style="font-family:Helvetica;font-size:13pt;">
                  <li style="margin-bottom:10px;"> <nobr>Implementing machine learning algorithms on FPGA.</nobr><br><nobr><b>Current project&#58</b> State estimation from high-rate vibration data using LSTM and Transformers on FPGA.</nobr></li>
                </ul>
